@@ -1,0 +1,11 @@
+import { createApp } from 'vue'
+import App from '@/components/app/App.vue'
+import uiComponents from './components/ui-components'
+import router from './router'
+import "@/index/index.css"
+const app = createApp(App)
+
+uiComponents.map(component => app.component(component.name, component))
+app.use(router)
+
+app.mount('#app')
