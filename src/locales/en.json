@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "login": "Log in / Sign up",
+    "home": "Home",
+    "features": "Features",
+    "code": "Code",
+    "catalog": "Lessons",
+    "signin": "Log in",
+    "pricing": "Pricing"
+  },
+  "hero": {
+    "tag": "Lesson system by YHUU.UZ",
+    "title1": "Bring your lesson to life.",
+    "title2": "Lessons are fun with us.",
+    "lead": "Interactive presentations, live quiz games and classroom management — in one system. Students join from their phones with a code, and results light up on screen in real time.",
+    "start": "Start creating a lesson",
+    "open": "Open lessons",
+    "b1": "YHUU authentication",
+    "b2": "Phone, tablet, computer",
+    "b3": "Live results"
+  },
+  "login": {
+    "tag": "Sign in",
+    "title": "All features in one click",
+    "text": "Sign in securely with your existing YHUU account. No need to create a new one.",
+    "btn": "Sign in with YHUU",
+    "note": "dars.yhuu.uz — the unified YHUU ecosystem"
+  },
+  "code": {
+    "tag": "Have a code?",
+    "title": "Join a lesson with a code",
+    "text": "Enter the 6-digit code shown on the teacher's screen. No account needed: pick a name and avatar and jump straight in.",
+    "btn": "Join lesson"
+  },
+  "features": {
+    "tag": "Features",
+    "title": "One system — the whole lesson",
+    "text": "From preparing a presentation to a live game and homework — it's all here.",
+    "f1": { "title": "Live session", "text": "Teacher-led or self-paced. Join with a code, live leaderboard and podium.", "note": "5 modes: live, projector, team..." },
+    "f2": { "title": "Presentations and games", "text": "Slide editor, free-form canvas, 16 question types, PPTX/PDF import.", "note": "PowerPoint-style editor" },
+    "f3": { "title": "Practice mode", "text": "Mixed review with Leitner boxes — mistakes aren't forgotten, knowledge sticks.", "note": "Intervals: 1 · 3 · 7 · 16 · 35 days" },
+    "f4": { "title": "Classes and reports", "text": "Classes, assignments, per-question analysis and a link for parents.", "note": "Results are kept for 3 years" }
+  },
+  "avatars": {
+    "tag": "Uzbek avatars",
+    "title": "Join the lesson with your own hero",
+    "text": "10 characters — 5 boys, 5 girls. Or take part with the photo from your id.yhuu.uz profile.",
+    "hint": "Tap a hero to pick yours",
+    "list": {
+      "a1": { "name": "Quvonchbek", "trait": "Always laughing" },
+      "a2": { "name": "Xursanoy", "trait": "Cheerful and kind" },
+      "a3": { "name": "Bilag'on", "trait": "Knows it all" },
+      "a4": { "name": "Olima", "trait": "Sharp student" },
+      "a5": { "name": "Shumbola", "trait": "Lively and quick" },
+      "a6": { "name": "Qaqildoq", "trait": "Chatterbox" },
+      "a7": { "name": "Bilmasvoy", "trait": "Sleepyhead" },
+      "a8": { "name": "Qimmatxon", "trait": "Picky" },
+      "a9": { "name": "Bahodir", "trait": "Determined" },
+      "a10": { "name": "Halovatxon", "trait": "Calm" }
+    }
+  },
+  "pricing": {
+    "tag": "Flexible subscription",
+    "price": "10 thousand soum / 30 days",
+    "text": "10 lessons, 100 participants and 10 saved results every 30 days. Each extra lesson 0, participant 50, result 1 thousand soum. Joining a lesson is free.",
+    "open": "Open for new teachers",
+    "spotsText": "9 / 100 spots",
+    "btn": "Set up subscription"
+  },
+  "catalog": {
+    "tag": "Open lessons",
+    "title": "Choose from the catalog",
+    "text": "Lessons made public by teachers appear here.",
+    "emptyTitle": "Open lessons will appear here soon",
+    "emptyText": "Lessons teachers publish to the catalog are shown automatically."
+  },
+  "footer": {
+    "slogan": "Essential services — in one place",
+    "desc": "Discover convenient digital solutions for business, education and everyday life.",
+    "services": "Services",
+    "id": "Personal ID",
+    "links": "Useful links",
+    "about": "About us",
+    "legal": "Legal information",
+    "privacyPolicy": "Privacy policy",
+    "support": "Customer support",
+    "hours": "Every day 09:00 – 18:00",
+    "mobile": "Download our mobile app",
+    "download": "Download on",
+    "copy": "© 2026 yhuu. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookie settings",
+    "status": "All systems operational"
+  }
+}

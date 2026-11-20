@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "login": "Kirish / Registratsiya",
+    "home": "Bosh",
+    "features": "Imkoniyat",
+    "code": "Kod",
+    "catalog": "Darslar",
+    "signin": "Kirish",
+    "pricing": "Tariflar"
+  },
+  "hero": {
+    "tag": "YHUU.UZ tarkibidagi dars tizimi",
+    "title1": "Darsni jonlantiring.",
+    "title2": "Biz bilan darslar qiziqarli.",
+    "lead": "Interaktiv taqdimotlar, jonli savol-javob o'yinlari va sinf boshqaruvi — bitta tizimda. Talabalar telefonidan kod bilan qo'shiladi, natijalar real vaqtda ekranda yonadi.",
+    "start": "Dars tuzishni boshlash",
+    "open": "Ochiq darslar",
+    "b1": "YHUU autentifikatsiyasi",
+    "b2": "Telefon, planshet, kompyuter",
+    "b3": "Jonli natijalar"
+  },
+  "login": {
+    "tag": "Tizimga kirish",
+    "title": "Barcha imkoniyatlar bir bosishda",
+    "text": "Mavjud YHUU hisobingiz bilan xavfsiz kiring. Yangi akkaunt yaratishga hojat yo'q.",
+    "btn": "YHUU orqali kirish",
+    "note": "dars.yhuu.uz — YHUU yagona ekotizimi"
+  },
+  "code": {
+    "tag": "Kodingiz bormi?",
+    "title": "Kod bilan darsga qo'shilish",
+    "text": "O'qituvchi ekranda ko'rsatgan 6 xonali kodni yozing — akkaunt shart emas, ism va avatar tanlab darhol o'yinga kirasiz.",
+    "btn": "Darsga kirish"
+  },
+  "features": {
+    "tag": "Imkoniyatlar",
+    "title": "Bitta tizim — butun dars",
+    "text": "Taqdimot tayyorlashdan jonli o'yin va uy vazifasigacha — hammasi shu yerda.",
+    "f1": { "title": "Jonli sessiya", "text": "Boshqaruv o'qituvchida yoki har kim o'z tezligida. Kod bilan qo'shilish, jonli leaderboard va podium.", "note": "5 rejim: jonli, proyektor, jamoaviy..." },
+    "f2": { "title": "Taqdimot va o'yinlar", "text": "Slayd muharriri, erkin joylashuv (canvas), 16 xil savol turi, PPTX/PDF import.", "note": "PowerPoint uslubidagi muharrir" },
+    "f3": { "title": "Mashq rejimi", "text": "Leitner qutilari bilan aralashgan takrorlash — xatolar unutilmaydi, bilim mustahkamlanadi.", "note": "1 · 3 · 7 · 16 · 35 kunlik interval" },
+    "f4": { "title": "Sinf va hisobot", "text": "Sinflar, topshiriqlar, har savol bo'yicha tahlil va ota-onalar uchun havola.", "note": "Natijalar 3 yil saqlanadi" }
+  },
+  "avatars": {
+    "tag": "O'zbekona avatarlar",
+    "title": "Darsga o'z qahramoningiz bilan kiring",
+    "text": "10 xarakter — 5 o'g'il, 5 qiz. Yoki id.yhuu.uz profilingizdagi rasm bilan qatnashing.",
+    "hint": "Qahramoningizni bosib tanlab ko'ring",
+    "list": {
+      "a1": { "name": "Quvonchbek", "trait": "Doim kulib yuradi" },
+      "a2": { "name": "Xursanoy", "trait": "Quvnoq va mehribon" },
+      "a3": { "name": "Bilag'on", "trait": "Hammasini biladi" },
+      "a4": { "name": "Olima", "trait": "Zukko o'quvchi" },
+      "a5": { "name": "Shumbola", "trait": "Sho'x va epchil" },
+      "a6": { "name": "Qaqildoq", "trait": "Gapdon" },
+      "a7": { "name": "Bilmasvoy", "trait": "Uyquchi" },
+      "a8": { "name": "Qimmatxon", "trait": "Injiq" },
+      "a9": { "name": "Bahodir", "trait": "Qat'iyatli" },
+      "a10": { "name": "Halovatxon", "trait": "Xotirjam" }
+    }
+  },
+  "pricing": {
+    "tag": "Moslashuvchan obuna",
+    "price": "10 ming so'm / 30 kun",
+    "text": "10 ta dars, har 30 kunda 100 ishtirokchi va 10 ta saqlanadigan natija. Har qo'shimcha dars 0, ishtirokchi 50, natija 1 ming so'm. Darsga qatnashish — bepul.",
+    "open": "Yangi o'qituvchilar uchun ochiq",
+    "spotsText": "9 / 100 o'rin",
+    "btn": "Obunani sozlash"
+  },
+
+  "catalog": {
+    "tag": "Ochiq darslar",
+    "title": "Katalogdan tanlang",
+    "text": "O'qituvchilar ochiq qilgan darslar shu yerda ko'rinadi.",
+    "emptyTitle": "Ochiq darslar tez orada shu yerda paydo bo'ladi",
+    "emptyText": "O'qituvchilar katalogga chiqargan darslar avtomatik ko'rsatiladi."
+  },
+  "footer": {
+    "slogan": "Kerakli xizmatlar — bir joyda",
+    "desc": "Biznes, ta'lim va kundalik hayot uchun qulay raqamli yechimlarni kashf eting.",
+    "services": "Xizmatlar",
+    "id": "Shaxsiy ID",
+    "links": "Foydali havolalar",
+    "about": "Biz haqimizda",
+    "legal": "Huquqiy ma'lumotlar",
+    "privacyPolicy": "Maxfiylik siyosati",
+    "support": "Qo'llab-quvvatlash xizmati",
+    "hours": "Har kuni 09:00 – 18:00",
+    "mobile": "Mobil ilovamizni yuklab oling",
+    "download": "Yuklab olish",
+    "copy": "© 2026 yhuu. Barcha huquqlar himoyalangan.",
+    "privacy": "Maxfiylik",
+    "terms": "Shartlar",
+    "cookies": "Cookie sozlamalari",
+    "status": "Barcha tizimlar ishlamoqda"
+  }
+}
